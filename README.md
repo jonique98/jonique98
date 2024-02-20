@@ -1,8 +1,13 @@
+
 # Hi 🤓
 
 <p>
-  <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-0B0B3B?style=flat-square&logo=42&logoColor=white"/></a>
-  <a href="https://sumjo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-0B0B3B?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://42seoul.kr/seoul42/main/view" target="_blank">
+  <img width='100px' src="https://img.shields.io/badge/42Seoul-0B0B3B?style=flat-square&logo=42&logoColor=white"/>
+  </a>
+  <a href="https://sumjo.tistory.com/" target="_blank">
+  <img width = "81px" src="https://img.shields.io/badge/BLOG-0B0B3B?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
 </p>
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,6 +18,7 @@
     <img src="https://github-readme-stats.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical&username=jonique98" />
   </a>
 </div>
+
 
 ✏ Stack
 
