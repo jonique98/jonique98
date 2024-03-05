@@ -15,7 +15,7 @@
 </div>
 
 <div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jonique98" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnals9899" />
 </div>
 
 ✏ Stack
