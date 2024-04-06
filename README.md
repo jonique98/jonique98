@@ -3,7 +3,7 @@
 <p>
   <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img width='100px' src="https://img.shields.io/badge/42Seoul-0B0B3B?style=flat-square&logo=42&logoColor=white"/></a>
   <a href="https://sumjo.tistory.com/" target="_blank">
-  <img width = "81px" src="https://img.shields.io/badge/BLOG-0B0B3B?style=flat-square&logo=Notion&logoColor=white"/></a> -->
+  <img width = "81px" src="https://img.shields.io/badge/BLOG-0B0B3B?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
